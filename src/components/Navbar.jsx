@@ -17,9 +17,8 @@ const Navbar = () => {
   return (
     <header>
         <nav>
-            {/* <NavLink className="logo" href='/'>Amazon.in</NavLink> */}
             <NavLink className="logo" href='/'>
-              <img src="../src/assets/amazon-logo.png" alt="" height="40px"/>
+              <img src="https://ik.imagekit.io/7rrszb4as/amazon-logo.png" alt="" height="40px"/>
             </NavLink>
             <div className='search-bar'>
             <input 

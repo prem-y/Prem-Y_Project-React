@@ -30,7 +30,7 @@ const ProductCard = ({product}) => {
           {product.title}
         </h5>
         <div className='rating-component' onClick={() => navigate(`/details/${product.id}`)}>
-          <img src={`../src/assets/stars/star${product.stars}.png`} alt="" />
+          <img src={`https://ik.imagekit.io/7rrszb4as/stars/star${product.stars}.png`} alt="" />
           <p>{product.rating}</p>
         </div>
         <p style={{marginTop:"-20px"}}>{product.buyers}</p>

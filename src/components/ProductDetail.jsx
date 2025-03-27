@@ -47,7 +47,7 @@ const ProductDetail = () => {
                         <h4>{productDetail.title}</h4>
                         <div className='ratings'>
                           <p>{productDetail.stars+".0"}</p>
-                          <img src={`../src/assets/stars/star${productDetail.stars}.png`} alt="img" />
+                          <img src={`https://ik.imagekit.io/7rrszb4as/stars/star${productDetail.stars}.png`} alt="img" />
                           <p>{"("+productDetail.rating+")"}</p>
                         </div>
                         <p style={{marginTop:"-16px"}}>{productDetail.buyers}</p>
