@@ -1,0 +1,108 @@
+.product-container{
+    margin-top: 8vh;
+}
+
+.product-img{
+    height: 600px;
+    border-radius: 10px;
+}
+
+.img-container{
+    margin-bottom: 15px;
+}
+
+.ratings{
+    display: flex;
+    gap: 4px;
+    margin-top: -5px;
+}
+
+.ratings img{
+    height: 15px;
+    margin-top: 5px;
+}
+
+.price-container{
+    display: flex;
+    gap: 6px;
+}
+
+#discount{
+    font-size: 25px;
+    color: red;
+    font-weight: 350;
+}
+
+#price{
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: -4px;
+}
+
+.mrp{
+    display: flex;
+    gap: 5px;
+    margin-top: -20px;
+}
+
+.mrp-value{
+    text-decoration: line-through;
+}
+
+.quantity{
+    display: flex;
+    gap: 10px;
+}
+
+.quantity div{
+    display: flex;
+    gap: 10px;
+    border: 1px solid orange;
+    border-radius: 10px;
+    height: 26px;
+    padding: 10px;
+}
+
+.quantity div p{
+    margin-top: -10px;
+}
+
+.quantity button{
+    border: none;
+    background-color: transparent;
+    font-size: 25px;
+    margin-top: -18px;
+    font-weight: 500;
+}
+
+.qty-container{
+    display: flex;
+    gap: 20px;
+}
+
+.button1, .button2{
+    padding: 5px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: -4px;
+}
+
+.button1{
+    margin-right: 10px;
+    background-color: rgb(255, 216, 73);
+}
+
+.button2{
+    background-color: rgb(255, 185, 55);
+}
+.about-container{
+    margin-top: 20px;
+}
+.about-container ul{
+    display: flex;
+    flex-direction: column;
+    list-style: disc;
+    font-size: 18px;
+}

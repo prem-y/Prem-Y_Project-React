@@ -1,0 +1,12 @@
+{
+    "data":[
+        { "id":1, "src": "https://ik.imagekit.io/7rrszb4as/banners/banner_1.jpg" },
+        { "id":2, "src": "https://ik.imagekit.io/7rrszb4as/banners/banner_2.jpg"},
+        { "id":3, "src": "https://ik.imagekit.io/7rrszb4as/banners/banner_3.jpg"},
+        { "id":4, "src": "https://ik.imagekit.io/7rrszb4as/banners/banner_4.jpg"},
+        { "id":5, "src": "https://ik.imagekit.io/7rrszb4as/banners/banner_5.jpg"},
+        { "id":6, "src": "https://ik.imagekit.io/7rrszb4as/banners/banner_6.jpg"},
+        { "id":7, "src": "https://ik.imagekit.io/7rrszb4as/banners/banner_7.jpg"},
+        { "id":8, "src": "https://ik.imagekit.io/7rrszb4as/banners/banner_8.jpg"}
+    ]
+}

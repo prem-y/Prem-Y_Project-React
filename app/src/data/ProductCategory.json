@@ -1,0 +1,215 @@
+{
+    "row1":[
+        {
+            "id":1,
+            "title":"Appliances for your home | Up to 55% off",
+            "subCategories": [
+                {
+                    "id":101,
+                    "title":"Air conditioners",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_1.jpg"
+                },
+                {
+                    "id":102,
+                    "title":"Refrigerators",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_2.jpg"
+                },
+                {
+                    "id":103,
+                    "title":"Microwaves",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_3.jpg"
+                },
+                {
+                    "id":104,
+                    "title":"Washing",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_4.jpg"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "title":"Revamp your home in style",
+            "subCategories": [
+                {
+                    "id":201,
+                    "title":"Cushion covers, bedsheets & more",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_5.jpg"
+                },
+                {
+                    "id":202,
+                    "title":"Figurines, vases & more",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_6.jpg"
+                },
+                {
+                    "id":203,
+                    "title":"Home storage",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_7.jpg"
+                },
+                {
+                    "id":204,
+                    "title":"Lighting solutions",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_8.jpg"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "title":"Starting ₹149 | Headphones",
+            "subCategories": [
+                {
+                    "id":301,
+                    "title":"Starting ₹249 | boAt",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_9.jpg"
+                },
+                {
+                    "id":302,
+                    "title":"Starting ₹349 | boult",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_10.jpg"
+                },
+                {
+                    "id":303,
+                    "title":"Starting ₹649 | Noise",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_11.jpg"
+                },
+                {
+                    "id":304,
+                    "title":"Starting ₹149 | Zebronics",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_12.jpg"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "title":"Automotive essentials | Up to 60% off",
+            "subCategories": [
+                {
+                    "id":401,
+                    "title":"Cleaning accessories",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_13.jpg"
+                },
+                {
+                    "id":402,
+                    "title":"Tyre & rim care",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_14.jpg"
+                },
+                {
+                    "id":403,
+                    "title":"Helmets",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_15.jpg"
+                },
+                {
+                    "id":404,
+                    "title":"Vacuum cleaner",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_16.jpg"
+                }
+            ]
+        }
+    ],
+    "row2":[
+        {
+            "id":5,
+            "title":"Appliances for your home | Up to 55% off",
+            "subCategories": [
+                {
+                    "id":501,
+                    "title":"Air conditioners",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_17.jpg"
+                },
+                {
+                    "id":502,
+                    "title":"Refrigerators",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_18.jpg"
+                },
+                {
+                    "id":503,
+                    "title":"Microwaves",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_19.jpg"
+                },
+                {
+                    "id":504,
+                    "title":"Washing",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_20.jpg"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "title":"Revamp your home in style",
+            "subCategories": [
+                {
+                    "id":601,
+                    "title":"Cushion covers, bedsheets & more",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_5.jpg"
+                },
+                {
+                    "id":602,
+                    "title":"Figurines, vases & more",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_6.jpg"
+                },
+                {
+                    "id":603,
+                    "title":"Home storage",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_7.jpg"
+                },
+                {
+                    "id":604,
+                    "title":"Lighting solutions",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_8.jpg"
+                }
+            ]
+        },
+        {
+            "id":7,
+            "title":"Starting ₹149 | Headphones",
+            "subCategories": [
+                {
+                    "id":701,
+                    "title":"Starting ₹249 | boAt",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_9.jpg"
+                },
+                {
+                    "id":702,
+                    "title":"Starting ₹349 | boult",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_10.jpg"
+                },
+                {
+                    "id":703,
+                    "title":"Starting ₹649 | Noise",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_11.jpg"
+                },
+                {
+                    "id":704,
+                    "title":"Starting ₹149 | Zebronics",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_12.jpg"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "title":"Automotive essentials | Up to 60% off",
+            "subCategories": [
+                {
+                    "id":801,
+                    "title":"Cleaning accessories",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_13.jpg"
+                },
+                {
+                    "id":802,
+                    "title":"Tyre & rim care",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_14.jpg"
+                },
+                {
+                    "id":803,
+                    "title":"Helmets",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_15.jpg"
+                },
+                {
+                    "id":804,
+                    "title":"Vacuum cleaner",
+                    "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_categories/category_16.jpg"
+                }
+            ]
+        }
+
+    ]
+}

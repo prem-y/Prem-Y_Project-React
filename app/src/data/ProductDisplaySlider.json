@@ -1,0 +1,52 @@
+{
+    "data":[
+        {
+            "id":1,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img1.jpg"
+        },
+        {
+            "id":2,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img2.jpg"
+        },
+        {
+            "id":3,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img3.jpg"
+        },
+        {
+            "id":4,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img4.jpg"
+        },
+        {
+            "id":5,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img5.jpg"
+        },
+        {
+            "id":6,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img6.jpg"
+        },
+        {
+            "id":7,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img7.jpg"
+        },
+        {
+            "id":8,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img8.jpg"
+        },
+        {
+            "id":9,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img9.jpg"
+        },
+        {
+            "id":10,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img10.jpg"
+        },
+        {
+            "id":11,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img11.jpg"
+        },
+        {
+            "id":12,
+            "imgAddress": "https://ik.imagekit.io/7rrszb4as/product_display_slider/img12.jpg"
+        }
+    ]
+}

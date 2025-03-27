@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(231, 231, 231) !important;
+}
+
+.overlapping-container{
+    position: absolute;
+    top: 35vh;
+    z-index: 10; 
+    left: 50px;
+}
+
+
+.overlapping-container p{
+    font-size: 12px;
+    margin-left: 2px;
+    font-weight: 500;
+}
+
+.category-img{
+    height: 5em;
+    box-sizing: border-box;
+}
+
+.containerInside{
+    margin-right: 5px;
+    background-color: white;
+    padding: 14px;
+    cursor: pointer;
+}
+
+.containerInside:hover{
+    border: 1px solid black;
+}
+
+.slider-container{
+    margin-top: 75vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 50px;
+    left: 50px;
+    background-color: white;
+    padding: 20px;
+    height: 380px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.slider-container img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover; /* Ensures images scale properly */
+}

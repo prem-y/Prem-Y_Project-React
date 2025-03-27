@@ -1,0 +1,176 @@
+{
+    "data":[
+        {
+            "id":1,
+            "imgAddress":"https://ik.imagekit.io/7rrszb4as/products/product_1.jpg",
+            "title":"Daikin 1.5 Ton 3 Star Inverter Split AC (Copper, PM 2.5 Filter, Triple Display, Dew Clean Technology, Coanda Airflow, 2024 Model, MTKL50U, White)",
+            "description":[
+                {
+                    "info":"split ac with inverter swing compressor and hepta sense: dew clean technology; triple display; pm 2.5 filter to ensure healthy air"
+                },
+                {
+                    "info":"capacity 1.5 ton: suitable for small sized rooms (111 to 150 sq.ft); 572 cfm with an air throw of 16 meters"
+                },
+                {
+                    "info":"3 star: energy efficiency"
+                },
+                {
+                    "info":"warranty: 1 years on product, 5 years on pcb, 10 years on compressor"
+                }
+            ],
+            "mrp":58400,
+            "price":37490,
+            "discount":36,
+            "rating":250,
+            "stars":4,
+            "buyers":"5K+ bought in past month",
+            "bestSeller":true,
+            "keyword":"ac"
+        },
+        {
+            "id":2,
+            "imgAddress":"https://ik.imagekit.io/7rrszb4as/products/product_2.jpg",
+            "title":"Godrej 1 Ton 3 Star, 5 Years Comprehensive Warranty, 5-In-1 Convertible Cooling, Inverter Split AC (Copper, I-Sense Technology, AC 1T EI 12TINV3R32-GWA Split, White)",
+            "description":[
+                {
+                    "info":"5-in-1 Convertible Split AC with inverter compressor: Variable speed compressor which adjusts power depending on heat load. Operates at a cooling capacity ranging from 40% to 110%, adjust cooling capacity at your convenience thus helps in saving energy."
+                },
+                {
+                    "info":"Capacity (1 Ton): Suitable for small sized rooms ( up to 110 sq.ft), 400 CFM & Ambient Temperature: 52â„ƒ"
+                },
+                {
+                    "info":"Energy rating: 3 star, Annual energy consumption: 980.37, ISEER value: 3.95 This model is as per the new star rating standards valid till 2024"
+                },
+                {
+                    "info":"Manufacturer Warranty: 5 years free comprehensive warranty (Coverage: Labor and all functional parts: compressor, Inverter controller drive, Remote, Indoor PCB, Fan Motors, Heat Exchange coils and Gas Charging), 10 years warranty on compressor"
+                },
+                {
+                    "info":"Condenser Coil: 100% copper evaporator and condenser with Blue Fin Anti-Corrosion coating that ensures durability and heavy duty performance for uninterrupted powerful cooling"
+                }
+            ],
+            "mrp":41900,
+            "price":29490,
+            "discount":30,
+            "rating":489,
+            "stars":3,
+            "buyers":"400+ bought in past month",
+            "bestSeller":true
+        },
+        {
+            "id":3,
+            "imgAddress":"https://ik.imagekit.io/7rrszb4as/products/product_3.jpg",
+            "title":"Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11/MS Office,15.6' FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",
+            "description":[
+                {
+                    "info":"Processor 1x AMD Athlon Silver 7120U Processor(Athlon Silver 7120U)"
+                },
+                {
+                    "info":"Memory 1x 8GBLPDDR5-5500 Hard Drive 1x 512 GB SSD PCIe"
+                },
+                {
+                    "info":"Wireless Network 1x Wi-Fi 6 2x2 AX; Bluetooth 5.1 or above"
+                },
+                {
+                    "info":"Ports 1x 1 RJ45 (rear); HDMI 1.4b; 2 USB 3.2 Gen 1; 1 x Type C full fuctional USB3.2 Gen1(5G)，DP 1.2 and PD (20V only)"
+                },
+                {
+                    "info":"Camera 1x 720P HD with Privacy Shutter and Dual Array Microphone"
+                }
+            ],
+            "mrp":98760,
+            "price":24900,
+            "discount":75,
+            "rating":6,
+            "stars":3,
+            "buyers":"300+ bought in past month",
+            "bestSeller":false
+        },
+        {
+            "id":4,
+            "imgAddress":"https://ik.imagekit.io/7rrszb4as/products/product_4.jpg",
+            "title":"HP 15, 13th Gen Intel Core i3-1315U, 8GB DDR4, 512GB SSD, (Win 11, Office 21, Grey, 1.59kg), Anti-Glare, Micro-Edge,15.6-inch(39.6cm), FHD Laptop, Intel UHD Graphics, 1080p FHD Camera, fd0006TU",
+            "description":[
+                {
+                    "info":"Experience versatile computing with 8 threads and 10MB L3 cache, delivering a perfect blend of performance and power for demanding tasks."
+                },
+                {
+                    "info":"Immerse yourself in a seamless visual experience with Intel UHD graphics, ensuring speedy and efficient performance for various applications."
+                },
+                {
+                    "info":"Run multiple programs effortlessly with 8GB DDR4 RAM, while the high-speed 512GB PCIe NVMe M.2 SSD helps you boot up in seconds, enhancing daily usability."
+                },
+                {
+                    "info":"Experience vibrant visuals on the 15.6-inch FHD, micro-edge display. The anti-glare panel and 250-nit brightness combine for a captivating viewing experience."
+                },
+                {
+                    "info":"Swiftly power up from 0% to 50% in just 45 minutes with HP Fast Charge. The 3-cell, 41Wh battery ensures worry-free usage for up to 7 hours and 45 minutes."
+                }
+            ],
+            "mrp":52273,
+            "price":39490,
+            "discount":24,
+            "rating":1934,
+            "stars":4,
+            "buyers":"300+ bought in past month",
+            "bestSeller":false
+        },
+        {
+            "id":5,
+            "imgAddress":"https://ik.imagekit.io/7rrszb4as/products/product_5.jpg",
+            "title":"Foxin 21.5 Inch Full HD LED Monitor (1920 x 1080) Elite Series | IPS Panel | 100Hz Refresh Rate | True Pixel | Anti-Glare & Flicker-Free | Frameless | 16.7 Million Colors | 3 Years Warranty",
+            "description":[
+                {
+                    "info":"Sleek design with a 22 inch display, providing a Full HD 1080p resolution on a Flat Screen IPS Panel for vibrant visuals."
+                },
+                {
+                    "info":"Experience 1ms response time and 100Hz refresh rate, perfect for a monitor gaming setup, minimizing lag and motion blur."
+                },
+                {
+                    "info":"HDMI Port and VGA Port included, compatible with PCs, notebooks, gaming consoles, and more—plus, the HDMI cable is included!"
+                },
+                {
+                    "info":"Anti-glare and flicker-free technology with True Pixel delivers 16.7 million colors, while reducing eye strain for longer sessions."
+                },
+                {
+                    "info":"Wall mount option and -5°/5° tilt, making this the ideal monitor for PC or any 22 inch monitor setup."
+                }
+            ],
+            "mrp":9999,
+            "price":5800,
+            "discount":42,
+            "rating":28,
+            "stars":4,
+            "buyers":"200+ bought in past month",
+            "bestSeller":false
+        },
+        {
+            "id":6,
+            "imgAddress":"https://ik.imagekit.io/7rrszb4as/products/product_6.jpg",
+            "title":"VW 109 cm (43 inches) Playwall Frameless Series Full HD Android Smart LED TV VW43F2 (Black)",
+            "description":[
+                {
+                    "info":"Sleek design with a 22 inch display, providing a Full HD 1080p resolution on a Flat Screen IPS Panel for vibrant visuals."
+                },
+                {
+                    "info":"Experience 1ms response time and 100Hz refresh rate, perfect for a monitor gaming setup, minimizing lag and motion blur."
+                },
+                {
+                    "info":"HDMI Port and VGA Port included, compatible with PCs, notebooks, gaming consoles, and more—plus, the HDMI cable is included!"
+                },
+                {
+                    "info":"Anti-glare and flicker-free technology with True Pixel delivers 16.7 million colors, while reducing eye strain for longer sessions."
+                },
+                {
+                    "info":"Wall mount option and -5°/5° tilt, making this the ideal monitor for PC or any 22 inch monitor setup."
+                }
+            ],
+            "mrp":23999,
+            "price":13999,
+            "discount":42,
+            "rating":6984,
+            "stars":4,
+            "buyers":"1k+ bought in past month",
+            "bestSeller":true
+        }
+    ]
+}
